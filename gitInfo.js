@@ -10,6 +10,7 @@
 */
 
 //CODE HERE
+let = gitDefinition('open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.')
 
 //////////////////PROBLEM 2////////////////////
 /*
@@ -18,6 +19,7 @@
 */
 
 //CODE HERE
+let = gitHubDefinition('is a code hosting platform for version control and collaboration.')
 
 //////////////////PROBLEM 3////////////////////
 /*
@@ -26,6 +28,7 @@
 */
 
 //CODE HERE
+let = gitInitDefinition('creates a new Git repository.')
 
 //////////////////PROBLEM 4////////////////////
 /*
@@ -34,6 +37,7 @@
 */
 
 //CODE HERE
+let gitCloneDefinition = ('primarily used to point to an existing repo and make a clone or copy of that repo at in a new directory, at another location.')
 
 //////////////////PROBLEM 5////////////////////
 /*
@@ -42,6 +46,7 @@
 */
 
 //CODE HERE
+let gitStatusDefinition= ('displays the state of the working directory and the staging area.')
 
 //////////////////PROBLEM 6////////////////////
 /*
@@ -53,6 +58,9 @@
 */
 
 //CODE HERE
+let gitAddDefinition = ('adds a change in the working directory to the staging area.')
+
+let gitAddCode = ('git add --all')
 
 //////////////////PROBLEM 7////////////////////
 /*
@@ -64,7 +72,9 @@
 */
 
 //CODE HERE
+let gitCommitDefinition = ('captures a snapshot of the projects currently staged changes.')
 
+let gitCommitCode = ('git commit -m')
 
 //////////////////PROBLEM 8////////////////////
 /*
@@ -73,3 +83,9 @@
 */
 
 //CODE HERE
+let gitPushDefinition = ('upload local repository content to a remote repository.')
+
+
+
+//All definitions were obtained from different websites.
+//The git commands could be used in vs code terminal or gitdash.

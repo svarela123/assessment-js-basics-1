@@ -35,3 +35,5 @@ let implementation = "Build the code, test, integrate and manage."
 let testingAndIntegration = "Testing the written code for bugs and other inconsistencies."
 
 let maintain = "The project team updates software to make sure it is relevant to the current market needs."
+
+//By following the SLDC it will allow code to progress infinitely.

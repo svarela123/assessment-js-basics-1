@@ -4,11 +4,17 @@
 const faveColors = ['red', 'green', 'black']
 
 //CODE HERE
+let colorCopy = faveColors.slice(0, 2)
+
+//
 
 //////////////////PROBLEM 2////////////////////
 /* Add a fourth color to the end of the 'colorCopy' array using the push method. */
 
 //CODE HERE
+faveColors.push('blue')
+
+//push allows an item to be added at the end of the array.
 
 //////////////////PROBLEM 3////////////////////
 /*
@@ -19,7 +25,10 @@ const faveColors = ['red', 'green', 'black']
 const numbers = [1, 2, 3, 4, 5]
 
 //CODE HERE
+let middleNums = numbers.splice(1, 3)
+console.log(middleNums)
 
+//when using splice the second number in parenthesis represents the amount from the list to be removed.
 
 //////////////////PROBLEM 4////////////////////
 /* 
