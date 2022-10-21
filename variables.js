@@ -41,7 +41,7 @@ if ( faveNum === 13 ){
 
 //CODE HERE
 for ( let i = 0; i < 5; i++){
-  console.log(13)
+  console.log(faveNum)
 }
 
 //gathered this for loop from slides, was able to write the correct format with slides.
